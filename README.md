@@ -1,7 +1,7 @@
 # TriviaGame
 This is a geography trivia game in which is designed to test the user's knowledge of geopgraphy.
 
-## The Rules of the Game Is As Follows:
+## The Rules of the Game Are:
 1. User gets to the first block and is asked to participate
 2. if user clicks yes then it goes shows the questions
 3. user gets 330 seconds to answer 15 questions
